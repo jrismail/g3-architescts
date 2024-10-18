@@ -38,6 +38,7 @@ header{
     transition: all 0.3s ease-in-out;
     z-index: 1000;
 }
+
 nav{
     max-width: 1200px;
     margin: 0 auto;
@@ -189,3 +190,4 @@ main{
         padding-right: 20px;
     }
 }
+
